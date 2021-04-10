@@ -48,6 +48,7 @@ const markerIcon = new L.Icon({
 const Map = ({ places }: MapProps) => {
   const router = useRouter()
 
+  /* MELHORIAS - Centralizar e se aproximar mais do Brasil */
   return (
     <S.MapWrapper>
       <MapContainer
