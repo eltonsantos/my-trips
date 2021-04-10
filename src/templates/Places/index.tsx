@@ -38,9 +38,9 @@ export default function PlacesTemplate({ place }: PlacesTemplateProps) {
           place.description?.text ||
           'A simple project to show in a map the places that I went and show more informations and photos when clicked.'
         }
-        canonical="https://my-trips-eltonsantos.vercel.com"
+        canonical="https://my-trips-eltonsantos.vercel.app"
         openGraph={{
-          url: 'https://my-trips-eltonsantos.vercel.com',
+          url: 'https://my-trips-eltonsantos.vercel.app',
           title: `${place.name} - My Trips`,
           description:
             place.description?.text ||
