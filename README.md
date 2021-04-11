@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img alt="My Trips" title="My Trips" src=".github/logo.png" width="200" /><br /><b>My Trips</b>
+  <a href="http://my-trips-eltonsantos.vercel.app/" target="_blank">
+    <img alt="My Trips" title="My Trips" src=".github/logo.png" width="200" /><br />My Trips
+  </a>
 </h1>
 
 <p align="center">
@@ -34,9 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicação desenvolvida no curso de [**Aprenda NextJS, GraphQL e Leaflet na prática!**](https://www.udemy.com/course/aprenda-nextjs-na-pratica/) da Udemy do instrutor [**Willian Justen**](https://www.udemy.com/user/willian-justen-de-vasconcellos/). 💜
 
- [**My Trips**](https://my-trips-eltonsantos.vercel.app/) é uma aplicação simples, objetiva e totalmente responsiva, podendo ser acessada de qualquer disposivo móvel ou desktop, desenvolvida para registrar as cidades que já visitei.
+[**My Trips**](https://my-trips-eltonsantos.vercel.app/) é uma aplicação simples, objetiva e totalmente responsiva, podendo ser acessada de qualquer disposivo móvel ou desktop, desenvolvida para registrar as cidades que já visitei.
 
- As páginas são cadastradas através do gerenciador de conteúdo [GraphqCMS](https://graphcms.com/) de modo bem simples e similar a criação de páginas com o Wordpress, por exemplo.
+As páginas são cadastradas através do gerenciador de conteúdo [GraphqCMS](https://graphcms.com/) de modo bem simples e similar a criação de páginas com o Wordpress, por exemplo.
 
 <p align="center">
   <img alt="My Trips" src=".github/my-trips-2.png" width="100%">
