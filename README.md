@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="My Trips" title="My Trips" src=".github/logo.png" width="200" /><b>My Trips</b>
+    <img alt="My Trips" title="My Trips" src=".github/logo.png" width="200" /><br /><b>My Trips</b>
 </h1>
 
 <p align="center">
