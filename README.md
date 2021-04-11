@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://my-trips-eltonsantos.vercel.app/" target="_blank">
+  <a href="http://my-trips-eltonsantos.vercel.app/">
     <img alt="My Trips" title="My Trips" src=".github/logo.png" width="200" /><br />My Trips
   </a>
 </h1>
